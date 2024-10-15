@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning: VB.NET
 - 💞️ I’m looking to collaborate on: Any and all VB or C# Projects
 - 📫 How to reach me: joshua.claus@perdue.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Currently, the United States has approximately 86.5 million acres of soybeans planted.
 
 <!---
